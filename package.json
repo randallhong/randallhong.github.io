@@ -1,6 +1,7 @@
 {
   "name": "randallhong.github.io",
   "version": "0.1.0",
+  "homepage": "https://randallhong.github.io/src/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
